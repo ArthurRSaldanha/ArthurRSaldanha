@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArthurRSaldanha
-- 👀 I’m interested in ... Programming and investments(With HTML & CSS) and Investments
+- 👀 I’m interested in ... Web Development(HTML & CSS) and Investments
 - 🌱 I’m currently learning ... Programming Languages ​​and Investment Techniques
 - 💞️ I’m looking to collaborate on ... Anything that adds more knowledge to me
 - 📫 How to reach me ... Just send a message ;3
