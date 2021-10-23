@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Uma pessoa que gosta de aprender várias coisas, um pouco tímido, mas nada que atrapalhe a gente conversar sobre tecnologias e aleatoriedades da vida. 
+  Apenas um estudante iniciando no mundo do Front-End. Espero aprender e conhecer mais e fazer amiguinhos na área. 
 </p>
 
 - 💻 | Ainda iniciante em Front-end.
