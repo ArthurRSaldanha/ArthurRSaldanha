@@ -4,7 +4,7 @@
   Apenas um estudante iniciando no mundo do Front-End. Espero aprender e conhecer mais e fazer amiguinhos na área. 
 </p>
 
-- 💻 | Ainda iniciante em Front-end.
+- 💻 | Front-End Developer.
 - 🧠 | Enquanto aprendo, compartilho com vocês o que sei.
 
 ***
